@@ -5,6 +5,6 @@
 ## Notes: GSA plugin for Chinese voice set
 ## Author: Yike Xia, Mini_Dragon
 ## Dependencies: GladiatorlosSA
-## Version: 1.0
+## Version: 20150413
 
 GladiatorlosSA_zhCN.lua
