@@ -1,9 +1,9 @@
-﻿## Interface: 90000
+﻿## Interface: 90100
 ## Title: GladiatorlosSA_zhCN(Yike_Xia)
 ## Title-zhCN:GladiatorlosSA_夏一可语音包
 ## Title-zhTW:GladiatorlosSA_夏一可語音包
 ## Notes: GSA plugin for Chinese voice set
 ## Author: Yike Xia, Mini_Dragon
-## Version: 20201129
+## Version: 20210719
 
 GladiatorlosSA_zhCN.lua
